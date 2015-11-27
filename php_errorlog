@@ -1,0 +1,8 @@
+[20-Nov-2015 17:23:17 CST6CDT] PHP Fatal error:  Call to a member function getBaseDir() on a non-object in /home/utsmaedu/public_html/sgc/plugins/access.ajxp_conf/class.ajxp_confAccessDriver.php on line 1181
+[20-Nov-2015 17:24:09 CST6CDT] PHP Fatal error:  Call to a member function getBaseDir() on a non-object in /home/utsmaedu/public_html/sgc/plugins/access.ajxp_conf/class.ajxp_confAccessDriver.php on line 1181
+[20-Nov-2015 17:32:56 CST6CDT] PHP Fatal error:  Call to a member function getBaseDir() on a non-object in /home/utsmaedu/public_html/sgc/plugins/access.ajxp_conf/class.ajxp_confAccessDriver.php on line 1181
+[20-Nov-2015 17:33:09 CST6CDT] PHP Fatal error:  Call to a member function getBaseDir() on a non-object in /home/utsmaedu/public_html/sgc/plugins/access.ajxp_conf/class.ajxp_confAccessDriver.php on line 1181
+[20-Nov-2015 17:35:09 CST6CDT] PHP Fatal error:  Call to a member function getBaseDir() on a non-object in /home/utsmaedu/public_html/sgc/plugins/access.ajxp_conf/class.ajxp_confAccessDriver.php on line 1181
+[20-Nov-2015 17:38:29 CST6CDT] PHP Fatal error:  Call to a member function getBaseDir() on a non-object in /home/utsmaedu/public_html/sgc/plugins/access.ajxp_conf/class.ajxp_confAccessDriver.php on line 1181
+[20-Nov-2015 17:38:42 CST6CDT] PHP Fatal error:  Call to a member function getBaseDir() on a non-object in /home/utsmaedu/public_html/sgc/plugins/access.ajxp_conf/class.ajxp_confAccessDriver.php on line 1181
+[22-Nov-2015 14:26:04 CST6CDT] PHP Fatal error:  Call to a member function getBaseDir() on a non-object in /home/utsmaedu/public_html/sgc/plugins/access.ajxp_conf/class.ajxp_confAccessDriver.php on line 1181

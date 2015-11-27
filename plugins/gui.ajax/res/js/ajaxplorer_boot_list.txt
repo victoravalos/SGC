@@ -1,0 +1,9 @@
+js/lib/prototype/prototype.js
+js/lib/prototype/prototype.livepipe.js
+js/lib/prototype/prototype.oo.js
+js/lib/modernizr/modernizr.min.js
+js/lib/prototype/jsProgressBarHandler.js
+js/pydio/http/class.Connexion.js
+js/pydio/util/md5.js
+js/pydio/util/ajxp_utils.js
+js/pydio/class.AjxpBootstrap.js
