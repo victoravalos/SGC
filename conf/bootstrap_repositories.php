@@ -96,7 +96,7 @@ $REPOSITORIES[1] = array(
                 "meta_fields" => "COMPUTED_GPS.GPS_Latitude,COMPUTED_GPS.GPS_Longitude",
                 "meta_labels" => "Latitude,Longitude"
             ),
-            "index.lucene" => array(
+            "index.lucene" => array(               
                 "index_meta_fields" => "tags",
                 "repository_specific_keywords" => "AJXP_USER",
             )

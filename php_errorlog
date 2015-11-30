@@ -6,3 +6,13 @@
 [20-Nov-2015 17:38:29 CST6CDT] PHP Fatal error:  Call to a member function getBaseDir() on a non-object in /home/utsmaedu/public_html/sgc/plugins/access.ajxp_conf/class.ajxp_confAccessDriver.php on line 1181
 [20-Nov-2015 17:38:42 CST6CDT] PHP Fatal error:  Call to a member function getBaseDir() on a non-object in /home/utsmaedu/public_html/sgc/plugins/access.ajxp_conf/class.ajxp_confAccessDriver.php on line 1181
 [22-Nov-2015 14:26:04 CST6CDT] PHP Fatal error:  Call to a member function getBaseDir() on a non-object in /home/utsmaedu/public_html/sgc/plugins/access.ajxp_conf/class.ajxp_confAccessDriver.php on line 1181
+[29-Nov-2015 00:41:32 CST6CDT] PHP Fatal error:  Call to a member function getBaseDir() on a non-object in /home/utsmaedu/public_html/sgc/plugins/access.ajxp_conf/class.ajxp_confAccessDriver.php on line 1181
+[29-Nov-2015 00:41:43 CST6CDT] PHP Fatal error:  Call to a member function getBaseDir() on a non-object in /home/utsmaedu/public_html/sgc/plugins/access.ajxp_conf/class.ajxp_confAccessDriver.php on line 1181
+[29-Nov-2015 00:41:44 CST6CDT] PHP Fatal error:  Call to a member function getBaseDir() on a non-object in /home/utsmaedu/public_html/sgc/plugins/access.ajxp_conf/class.ajxp_confAccessDriver.php on line 1181
+[29-Nov-2015 01:34:00 CST6CDT] PHP Fatal error:  Uncaught exception 'Zend_Search_Lucene_Exception' with message 'File '/home/utsmaedu/public_html/sgc/data/cache/indexes/index-b26fa9a9e003a9051de56ae971ca6d38-admin-PYDIO_TMP/_6.fnm' is not readable.' in /home/utsmaedu/public_html/sgc/plugins/index.lucene/Zend/Search/Lucene/Storage/File/Filesystem.php:56
+Stack trace:
+#0 /home/utsmaedu/public_html/sgc/plugins/index.lucene/Zend/Search/Lucene/Storage/Directory/Filesystem.php(359): Zend_Search_Lucene_Storage_File_Filesystem->__construct('/home/utsmaedu/...')
+#1 /home/utsmaedu/public_html/sgc/plugins/index.lucene/Zend/Search/Lucene/Index/SegmentWriter.php(613): Zend_Search_Lucene_Storage_Directory_Filesystem->getFileObject('_6.fnm')
+#2 /home/utsmaedu/public_html/sgc/plugins/index.lucene/Zend/Search/Lucene/Index/SegmentWriter/DocumentWriter.php(215): Zend_Search_Lucene_Index_SegmentWriter->_generateCFS()
+#3 /home/utsmaedu/public_html/sgc/plugins/index.lucene/Zend/Search/Lucene/Index/Writer.php(757): Zend_Search_Lucene_Index_SegmentWriter_DocumentWriter->close()
+#4  in /home/utsmaedu/public_html/sgc/plugins/index.lucene/Zend/Search/Lucene/Storage/File/Filesystem.php on line 56

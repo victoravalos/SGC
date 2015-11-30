@@ -30,5 +30,5 @@ $mess=array(
 "6" => "A revisar",
 "7" => "Importante",
 "8" => "Urgente",
-"9" => "No Value",
+"9" => "Sin valor",
 );
